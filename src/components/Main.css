@@ -1,0 +1,14 @@
+.main {
+	padding-top: 15rem;
+	background: -webkit-linear-gradient(rgb(0, 48, 179), rgb(114, 15, 180));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-size: 3rem;
+	text-shadow: 5px 5px 12px rgb(113, 0, 136);
+}
+
+@media (max-width: 920px) {
+	.main {
+		font-size: 2rem;
+	}
+}
