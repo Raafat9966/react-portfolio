@@ -1,4 +1,5 @@
 nav {
+	position: fixed;
 	display: flex;
 	height: 65px;
 	width: 100%;
@@ -91,4 +92,9 @@ input[type="checkbox"] {
 		background: none;
 		color: rgb(0, 211, 211);
 	}
+}
+
+.active {
+	background-color: #111;
+	color: rgb(0, 150, 150);
 }

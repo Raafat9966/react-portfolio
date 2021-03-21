@@ -3,7 +3,7 @@ import Particle from "./Particle";
 import "./Main.css";
 function Main() {
 	return (
-		<div className="main">
+		<div id="main" className="main">
 			<Particle />
 			<div className="header">
 				<h3>

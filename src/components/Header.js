@@ -1,3 +1,4 @@
+import { Link } from "react-scroll";
 import logo from "../img/logo.png";
 import "./Header.css";
 
@@ -15,16 +16,31 @@ function Header() {
 				</label>
 				<ul>
 					<li>
-						<a href="/">Home</a>
+						<Link
+							activeClass="active"
+							to="main"
+							smooth={true}
+							duration={1000}
+						>
+							Home
+						</Link>
+					</li>
+					<li>
+						<Link
+							to="projects"
+							smooth={true}
+							duration={1000}
+							activeClass="active"
+							spy={true}
+						>
+							Projects
+						</Link>
 					</li>
 					<li>
 						<a href="/">About</a>
 					</li>
 					<li>
 						<a href="/">Contact</a>
-					</li>
-					<li>
-						<a href="/">Projects</a>
 					</li>
 				</ul>
 			</nav>
