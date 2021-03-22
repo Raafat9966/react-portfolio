@@ -58,11 +58,11 @@
 
 .card-back {
 	background-color: #00e1ff;
-	color: #303030;
+	color: #636363;
 	padding: 20px;
 	transform: rotateX(180deg);
 	font-size: 1.2rem;
-	text-shadow: 2px 2px 10px #303030;
+	text-shadow: 2px 2px 15px #303030;
 }
 
 .card li {
