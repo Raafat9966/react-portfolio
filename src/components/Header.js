@@ -45,9 +45,15 @@ function Header() {
 							About
 						</Link>
 					</li>
-
 					<li>
-						<a href="/">Contact</a>
+						<Link
+							to="contact"
+							smooth={true}
+							duration={1000}
+							activeClass="active"
+						>
+							Contact
+						</Link>
 					</li>
 				</ul>
 			</nav>
