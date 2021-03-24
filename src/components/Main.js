@@ -10,6 +10,7 @@ function Main() {
 					<span>Hey,</span> I'm Raafat Basheer
 				</h3>
 				<h5>Full Stack & Interface Developer.</h5>
+
 				<Typed
 					strings={[
 						"JavaScript",

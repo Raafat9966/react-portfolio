@@ -9,7 +9,10 @@ import food from "../img/food-api.jpg";
 function Projects() {
 	return (
 		<div id="projects">
-			<h1>Projects</h1>
+			<h3>My Work</h3>
+			<h1>
+				I'm passionate about pixel perfect and minimalistic interfaces.
+			</h1>
 			<section className="cards">
 				<div className="card">
 					<div className="card-inner">

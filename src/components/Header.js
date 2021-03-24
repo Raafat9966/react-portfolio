@@ -31,14 +31,21 @@ function Header() {
 							smooth={true}
 							duration={1000}
 							activeClass="active"
-							spy={true}
 						>
 							Projects
 						</Link>
 					</li>
 					<li>
-						<a href="/">About</a>
+						<Link
+							to="about"
+							smooth={true}
+							duration={1000}
+							activeClass="active"
+						>
+							About
+						</Link>
 					</li>
+
 					<li>
 						<a href="/">Contact</a>
 					</li>

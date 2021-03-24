@@ -3,13 +3,15 @@
 	justify-content: center;
 	align-items: center;
 	flex-flow: column;
-	margin: 10px;
+	margin: 50px 0;
+	border-bottom: 1px solid rgb(214, 214, 214);
 }
 .cards {
 	width: 85%;
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	gap: 3rem;
+	margin: 20px;
 }
 
 .card {
@@ -58,7 +60,7 @@
 
 .card-back {
 	background-color: #00e1ff;
-	color: #636363;
+	color: #494949;
 	padding: 20px;
 	transform: rotateX(180deg);
 	font-size: 1.2rem;
