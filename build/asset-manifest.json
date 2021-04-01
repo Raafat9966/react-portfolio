@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.258a2d87.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.71c7089b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.71c7089b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.01c7829b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.01c7829b.js.map",
+    "static/js/2.da9f2abc.chunk.js": "/react-portfolio/static/js/2.da9f2abc.chunk.js",
+    "static/js/2.da9f2abc.chunk.js.map": "/react-portfolio/static/js/2.da9f2abc.chunk.js.map",
+    "static/js/3.7a3be689.chunk.js": "/react-portfolio/static/js/3.7a3be689.chunk.js",
+    "static/js/3.7a3be689.chunk.js.map": "/react-portfolio/static/js/3.7a3be689.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.258a2d87.chunk.css.map": "/react-portfolio/static/css/main.258a2d87.chunk.css.map",
+    "static/js/2.da9f2abc.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.da9f2abc.chunk.js.LICENSE.txt",
+    "static/media/breaking.ecdeb375.jpg": "/react-portfolio/static/media/breaking.ecdeb375.jpg",
+    "static/media/card.e70fbd4b.jpg": "/react-portfolio/static/media/card.e70fbd4b.jpg",
+    "static/media/About.css": "/react-portfolio/static/media/vision.e4731faf.jpg",
+    "static/media/digital.d4aa51f9.jpg": "/react-portfolio/static/media/digital.d4aa51f9.jpg",
+    "static/media/food-api.16876ad4.jpg": "/react-portfolio/static/media/food-api.16876ad4.jpg",
+    "static/media/game.c2e11f27.jpg": "/react-portfolio/static/media/game.c2e11f27.jpg",
+    "static/media/grow.de30812a.jpg": "/react-portfolio/static/media/grow.de30812a.jpg",
+    "static/media/logo.fd82ec33.png": "/react-portfolio/static/media/logo.fd82ec33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c7829b.js",
+    "static/js/2.da9f2abc.chunk.js",
+    "static/css/main.258a2d87.chunk.css",
+    "static/js/main.71c7089b.chunk.js"
+  ]
+}
