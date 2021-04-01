@@ -8,7 +8,16 @@
 	top: 45%;
 	left: 30%;
 }
+.header h3 {
+	background-color: rgb(106, 225, 255);
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
 
+.header h5 {
+	color: rgb(146, 175, 182);
+}
 @media (max-width: 1024px) {
 	.main {
 		font-size: 2rem;

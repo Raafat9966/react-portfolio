@@ -10,61 +10,37 @@ function About() {
 			<main className="page-content">
 				<div className="about-card">
 					<div className="content">
-						<h2 className="title">Skills</h2>
+						<h2 className="title">Frontend</h2>
 						<p className="copy">
 							<strong>
-								HTML, JavaScript, Nodejs, CSS, TypeScript,
-								MongoDb, React, SASS, Bootstrap, Wordpress
+								HTML, CSS, ES6+, TypeScript, React, SASS,
+								Bootstrap
 							</strong>
 						</p>
 					</div>
 				</div>
 				<div className="about-card">
 					<div className="content">
-						<h2 className="title">Education</h2>
+						<h2 className="title">Backend</h2>
 						<p className="copy">
-							<strong>Baccalaureate Degree 2003</strong>
-							<br />
-							Baccalaureate Degree, Mathematics Profile.
-							<br />
-							<strong>
-								Bachelor in Economics &Management 2007
-							</strong>
-							<br />
-							Degree in Biasness Administration.
-							<br />
-							<strong>Full Stack Web Development 2021.</strong>
-							<br />
-							Font-end & Back-end Development.
+							<strong>MongoDb, Express, Mongoose</strong>
 						</p>
 					</div>
 				</div>
 				<div className="about-card">
 					<div className="content">
-						<h2 className="title">Experience</h2>
+						<h2 className="title">Full Stack</h2>
 						<p className="copy">
-							<strong>Marketing Project Manager 2007</strong>
-							<br />
-							Responsible for the Marketing & Sales Department.
-							<br />
-							<strong>Client consultant 2018</strong>
-							<br />
-							Client consultant, money transfer, money exchange,
-							budget, data entry, collaborating with Management
-							Department. <br />
-							<strong>Web Developer 2018</strong>
-							<br />
-							Freelancer - Web Developer.
-							<br />
-							<strong>Web Development Tutor 2020</strong> <br />
-							Classes for Web-DEV students.
+							<strong>Nodejs, TypeScript, JavaScript, Git</strong>
 						</p>
 					</div>
 				</div>
 				<div className="about-card">
 					<div className="content">
-						<h2 className="title">Vision</h2>
-						<p className="copy">Going forward</p>
+						<h2 className="title">UI</h2>
+						<p className="copy">
+							<strong>Jquery, SASS, Bootstrap, Wordpress</strong>
+						</p>
 					</div>
 				</div>
 			</main>

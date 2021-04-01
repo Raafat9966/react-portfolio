@@ -22,10 +22,10 @@
 }
 
 .card h1 {
-	font-size: 30px;
+	font-size: 26px;
 	border-bottom: 1px rgb(143, 143, 143) solid;
-	padding-bottom: 10px;
-	margin-bottom: 10px;
+	padding-bottom: 7px;
+	margin-bottom: 7px;
 }
 
 .card img {
@@ -63,7 +63,7 @@
 	color: #494949;
 	padding: 20px;
 	transform: rotateX(180deg);
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 	text-shadow: 2px 2px 15px #303030;
 }
 
