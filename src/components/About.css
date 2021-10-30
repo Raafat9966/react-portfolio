@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap');
 :root {
 	--d: 700ms;
 	--e: cubic-bezier(0.19, 1, 0.22, 1);
-	--font-sans: "Rubik", sans-serif;
-	--font-serif: "Cardo", serif;
+	--font-sans: 'Rubik', sans-serif;
+	--font-serif: 'Cardo', serif;
 }
 
 /* body {
@@ -31,6 +31,7 @@
 }
 
 .about-card {
+	border-radius: 10px;
 	position: relative;
 	display: flex;
 	align-items: flex-end;
@@ -50,7 +51,7 @@
 	}
 }
 .about-card:before {
-	content: "";
+	content: '';
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -62,7 +63,7 @@
 	pointer-events: none;
 }
 .about-card:after {
-	content: "";
+	content: '';
 	display: block;
 	position: absolute;
 	top: 0;
@@ -93,16 +94,16 @@
 	transition: transform calc(var(--d) * 2) var(--e);
 }
 .about-card:nth-child(1):before {
-	background-image: url("../img/code.jpg");
+	background-image: url('../img/code.jpg');
 }
 .about-card:nth-child(2):before {
-	background-image: url("../img/education.jpg");
+	background-image: url('../img/education.jpg');
 }
 .about-card:nth-child(3):before {
-	background-image: url("../img/exp.jpg");
+	background-image: url('../img/exp.jpg');
 }
 .about-card:nth-child(4):before {
-	background-image: url("../img/vision.jpg");
+	background-image: url('../img/vision.jpg');
 }
 
 .content {
@@ -130,6 +131,7 @@
 	font-size: 1.125rem;
 	font-style: italic;
 	line-height: 1.35;
+	text-align: center;
 }
 
 @media (hover: hover) and (min-width: 600px) {
