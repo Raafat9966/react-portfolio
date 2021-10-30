@@ -1,11 +1,11 @@
-import Typed from "react-typed";
-import Particle from "./Particle";
-import "./Main.css";
+import Typed from 'react-typed';
+import Particle from './Particle';
+import './Main.css';
 function Main() {
 	return (
-		<div id="main" className="main">
+		<div id='main' className='main'>
 			<Particle />
-			<div className="header">
+			<div className='header'>
 				<h3>
 					<span>Hey,</span> I'm Raafat Basheer
 				</h3>
@@ -14,13 +14,19 @@ function Main() {
 					<br />
 					<Typed
 						strings={[
-							"JavaScript",
-							"Node.js",
-							"FrontEnd",
-							"BackEnd",
-							"React",
-							"MongoDB",
-							"Bootstrap",
+							'JavaScript',
+							'CSS3',
+							'HTML5',
+							'Node.js',
+							'FrontEnd',
+							'BackEnd',
+							'Reactjs',
+							'Vuejs',
+							'MongoDB',
+							'Bootstrap',
+							'Github',
+							'Sass',
+							'Git',
 						]}
 						typeSpeed={60}
 						backSpeed={30}
