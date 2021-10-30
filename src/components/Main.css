@@ -37,4 +37,7 @@
 		top: 15%;
 		left: 20%;
 	}
+	.header h3 {
+		font-size: 1.5rem;
+	}
 }
